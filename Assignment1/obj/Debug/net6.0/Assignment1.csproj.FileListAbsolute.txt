@@ -1,0 +1,12 @@
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.dll
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.dll
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\refint\Assignment1.dll
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+E:\Dotnet\Phase4\Assignments\Assignment1\Assignment1\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
